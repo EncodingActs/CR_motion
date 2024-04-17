@@ -38,6 +38,18 @@ I'd like to recognize the contribution of my collaborating students:
 * [**F. M. Seydou**](https://ch.linkedin.com/in/fadel-mamar-seydou-460a43197s), A. Fornaroli and R. Mocan contributed their implementation of supervised methodologies, including DTW-, RBF- and model averaging approaches. 
 * [**D. Cian**](https://gitlab.com/davidcian) J. Quiroz and A. Aboueloul contributed various methods to inspect the quality of classification and clustering.
 
+## Suggested citation:
+
+> Hou, Yumeng, Fadel Seydou, and David Cian. "Articulate similarity: a visual search framework for embodied knowledge in a Confucian rites video archive." 16th International Digital Curation Conference (IDCC21). 2021.
+or
+> Hou, Yumeng, Fadel Mamar Seydou, and Sarah Kenderdine. "Unlocking a multimodal archive of Southern Chinese martial arts through embodied cues." Journal of Documentation (2023). 
+> @article{hou2023unlocking,
+  title={Unlocking a multimodal archive of Southern Chinese martial arts through embodied cues},
+  author={Hou, Yumeng and Seydou, Fadel Mamar and Kenderdine, Sarah},
+  journal={Journal of Documentation},
+  year={2023},
+  publisher={Emerald Publishing Limited}
+}
 
 ## Prerequisites
 
