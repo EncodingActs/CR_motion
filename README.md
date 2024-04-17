@@ -2,27 +2,6 @@
 
 The code, implemented in Python, is produced from the EPFL-EDDH Semester Project #1 of Y.H., where a video search framework was proposed to retrieve the top-k (supervised) or nearest (unsupervised) videos to the query based on motion similarity. Specifically, this workflow treats features as motion time series and applies well to vary-in-lenth/-speed video dataset.
 
-
-## Table of contents
-
-<!--ts-->
-   * [Table of contents](#table-of-contents)
-   * [Introduction](#introduction)
-   * [Acknowledgement](#acknowledgement)
-      * [Suggested citation](#citation)
-   * [Prerequisites](#prerequisites)
-      * [Libraries](#libs)
-      * [Data](#data)
-   * [Methodology](#prerequisites)
-      * [Pre-processing](#preprocess)
-      * [Feature Construction](#feature)
-      * [Similarity Modelling](#similarity)
-   * [Contact & Contribute](#contact)
-   * [License](#license)
-<!--te-->
-
-
-
 ## Introduction
 The proposed framework works as follows:
 	First, we traverse all the videos in the dataset to extract the per-x-frame features of each as sequences of body keypoints. 
