@@ -24,7 +24,7 @@ I'd like to recognize the contribution of my collaborating students:
 
 or
 
-> Hou, Yumeng, Fadel Mamar Seydou, and Sarah Kenderdine. "Unlocking a multimodal archive of Southern Chinese martial arts through embodied cues." Journal of Documentation (2023).
+> Hou, Yumeng, Fadel Mamar Seydou, and Sarah Kenderdine. "Unlocking a multimodal archive of Southern Chinese martial arts through embodied cues." Journal of Documentation (2023). [https://doi.org/10.1108/JD-01-2022-0027](https://doi.org/10.1108/JD-01-2022-0027) 
 
 BibTeX
 > @article{hou2023unlocking,
@@ -34,6 +34,8 @@ BibTeX
   year={2023},
   publisher={Emerald Publishing Limited}
 }
+
+----
 
 ## Prerequisites
 
